@@ -1,0 +1,11 @@
+﻿int [] arr =  new int [5];
+arr[0] = 7;
+arr[1] = 2;
+arr[2] = 4;
+arr[3] = 9;
+arr[4] = 6;
+Console.WriteLine(arr[0]);
+Console.WriteLine(arr[1]);
+Console.WriteLine(arr[2]);
+Console.WriteLine(arr[3]);
+Console.WriteLine(arr[4]);
